@@ -1,8 +1,6 @@
-.first,
-.third.element,
-.fifth{
+.odd{
     background-color: rgb(244, 175, 175);
-    font-family: 'Verdana','DejaVu Sans',sans-serif;
+    font-family: Verdana,'DejaVu Sans',sans-serif;
 }
 
 #second{
@@ -10,7 +8,7 @@
     font-size: 36px;
 }
 
-.third.element{
+.element{
     font-size: 24px;
 }
 
